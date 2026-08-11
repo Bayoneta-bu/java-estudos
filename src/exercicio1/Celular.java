@@ -1,3 +1,5 @@
+package exercicio1;
+
 public class Celular extends Dispositivo {
 
     private int numeroChip;

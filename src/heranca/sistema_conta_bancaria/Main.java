@@ -1,4 +1,4 @@
-package heranca.exercicio2;
+package heranca.sistema_conta_bancaria;
 
 public class Main {
     public static void main(String[] args) {

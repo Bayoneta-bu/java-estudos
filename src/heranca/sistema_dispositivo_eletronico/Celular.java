@@ -1,4 +1,4 @@
-package heranca.exercicio1;
+package heranca.sistema_dispositivo_eletronico;
 
 public class Celular extends Dispositivo {
 

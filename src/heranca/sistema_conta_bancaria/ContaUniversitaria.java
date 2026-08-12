@@ -1,4 +1,4 @@
-package heranca.exercicio2;
+package heranca.sistema_conta_bancaria;
 
 public class ContaUniversitaria extends Conta {
     private String nomeCurso;

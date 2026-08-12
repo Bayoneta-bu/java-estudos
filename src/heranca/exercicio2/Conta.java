@@ -1,4 +1,4 @@
-package exercicio2;
+package heranca.exercicio2;
 
 public class Conta {
     private String titular;

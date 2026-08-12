@@ -1,4 +1,4 @@
-package exercicio3;
+package heranca.exercicio3;
 
 public class Carro extends Veiculo {
 

@@ -1,4 +1,4 @@
-package exercicio2;
+package heranca.exercicio2;
 
 public class ContaUniversitaria extends Conta {
     private String nomeCurso;
